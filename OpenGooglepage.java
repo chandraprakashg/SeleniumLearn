@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class OpenGooglepage {
 
 	public static void main(String[] args) {
+		// Edited in Github
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "D:\\chromedrive\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
