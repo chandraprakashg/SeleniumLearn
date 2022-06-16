@@ -9,6 +9,7 @@ public class OpenGooglepage {
 
 	public static void main(String[] args) {
 		// Edited in Github
+		// create a branch to avoid errors
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "D:\\chromedrive\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
